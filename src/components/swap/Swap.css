@@ -1,0 +1,73 @@
+.swap_main {
+  height: 35.5rem;
+}
+.header1{
+  box-shadow: 0px 0px 20px 0px;
+  height: 3rem;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  display: flex;
+}
+.main_box{
+  border: 1px solid #000;
+    height: 15rem;
+    width: 18rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+    border-radius: 15px;
+}
+.subBox1{
+  height: 6.5rem;
+  width: 18rem;
+}
+.subBox2{
+  height: 6.5rem;
+  width: 18rem;
+  border-top: 1px solid black;
+}
+.Circle{
+  height: 2rem;
+  width: 2rem;
+  border: 1px solid black;
+  border-radius: 50%;
+  display: inherit;
+}
+.swap_button{
+  height: 2rem;
+  width: 9rem;
+  margin: 10rem 1rem 1rem 6rem;
+  cursor: pointer;
+}
+.box{
+  background-color: aliceblue;
+  height: 2rem;
+  width: 9rem;
+  border-radius: 20px;
+  margin: 20px 0px 0px 18px;
+  display: flex;
+  cursor: pointer;
+}
+.symbol{
+  width: 2rem;
+  border-radius: 50%;
+  background-image: url("../../images/ethereum-log.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: -5px;
+}
+.dropdown-container{
+  display: flex;
+  cursor: pointer;
+}
+.balance{
+  margin: -30px 0 0 20px ;
+  cursor: pointer;
+}
+.input_box1{
+  width: 4rem;
+  margin: 0rem 0rem 0rem 13rem;
+  border: none;
+  cursor: pointer;
+}

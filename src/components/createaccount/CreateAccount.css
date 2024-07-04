@@ -1,0 +1,25 @@
+body {
+  width: 357px;
+  height: 600px;
+  min-width: 357px;
+  max-width: 357px;
+  min-height: 600px;
+  margin: auto;
+}
+.content {
+  height: 34.4rem;
+}
+.generateseedphraseButton {
+  margin-left: 8rem;
+  margin-top: 3rem;
+}
+.seedPhraseContainer {
+  width: 310px;
+  min-height: 160px;
+  padding: 5px;
+  margin-top: 30px;
+  margin-left: 1.5rem;
+}
+.openWallet {
+  margin: 2rem 0rem 0rem 8rem;
+}

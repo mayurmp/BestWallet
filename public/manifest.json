@@ -1,0 +1,24 @@
+{
+  "name": "Tech Alchemyy",
+  "description": "Build a Tech Alchemy Web3 Wallet",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "content_security_policy": {
+    "extension_pages": "script-src 'wasm-unsafe-eval' 'self'; object-src 'self' ",
+    "script-src": ["'self'", "https://your-web3-auth-domain.com"]
+  },
+  "permissions": ["storage", "tabs"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "TA logo.png",
+      "48": "TA logo.png",
+      "128": "TA logo.png"
+    }
+  },
+  "icons": {
+    "16": "TA logo.png",
+    "48": "TA logo.png",
+    "128": "TA logo.png"
+  }
+}

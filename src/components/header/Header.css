@@ -1,0 +1,10 @@
+.header {
+  height: 3rem;
+  width: 20rem;
+  display: flex;
+  margin-top: 1rem;
+}
+.select {
+  margin-top: 10px;
+  margin-left: 6rem;
+}

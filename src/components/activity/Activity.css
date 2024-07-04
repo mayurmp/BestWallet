@@ -1,0 +1,12 @@
+.activity{
+    height: 35.5rem;
+}
+.table_history{
+    height: 24rem;
+    margin: 3rem 0rem 0rem 0rem
+}
+.row{
+    height: 1rem;
+    border: 1px solid black;
+    display: flex;
+}

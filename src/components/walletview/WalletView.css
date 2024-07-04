@@ -1,0 +1,53 @@
+.walletView{
+  height: 34.5rem;
+}
+.tabs {
+  text-align: center;
+  width: 350px;
+  height: 520px;
+  overflow-y: auto;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.walletName {
+  text-align: center;
+}
+.tabs {
+  width: 350px;
+  padding: 10px;
+  height: 100%;
+  overflow-y: auto;
+}
+::-webkit-scrollbar {
+  width: 0; 
+  background: transparent;  
+}
+
+.walletName {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.backButton {
+  margin-left: 9rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+.token {
+  width: 15rem;
+  margin-left: 3rem;
+}
+.accounts {
+  border: 1px solid #000;
+  height: 3rem;
+  width: 11rem;
+  margin-left: 6rem;
+}
+.accountDropdown {
+  margin-bottom: 1rem;
+  margin-left: 7rem 
+}
+

@@ -1,0 +1,22 @@
+
+.createAccount {
+  height: 30.5rem;
+  width: 15rem;
+  margin-left: 5rem;
+}
+.createAccountButton {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+.signInButton1 {
+  margin-top: 2rem;
+  margin-left: -2rem;
+}
+.back {
+  margin-left: 10rem;
+  margin-top: 5rem;
+  text-align: center;
+}
+.logoutButton {
+  margin: 1rem 0rem 0rem 14rem;
+}

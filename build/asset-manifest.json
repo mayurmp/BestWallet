@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3994ed77.css",
+    "main.js": "/static/js/main.5deafbb9.js",
+    "static/js/32.0a7f31e4.chunk.js": "/static/js/32.0a7f31e4.chunk.js",
+    "static/media/ta-removebg-preview (1).png": "/static/media/ta-removebg-preview (1).9b8a674666c14e3882db.png",
+    "static/media/uniswap.png": "/static/media/uniswap.6afdda179c5890221056.png",
+    "static/media/Google logo.jpg": "/static/media/Google logo.34e29dcd0b6d90b24250.jpg",
+    "static/media/ta.png": "/static/media/ta.2c25a5669b1bc9379bb3.png",
+    "static/media/ethSepolis.png": "/static/media/ethSepolis.e77f77d405590fcb2244.png",
+    "index.html": "/index.html",
+    "main.3994ed77.css.map": "/static/css/main.3994ed77.css.map",
+    "main.5deafbb9.js.map": "/static/js/main.5deafbb9.js.map",
+    "32.0a7f31e4.chunk.js.map": "/static/js/32.0a7f31e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3994ed77.css",
+    "static/js/main.5deafbb9.js"
+  ]
+}

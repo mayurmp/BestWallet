@@ -1,0 +1,10 @@
+.footer_main {
+  position: fixed;
+  box-shadow: 0px 0px 10px 0px ;
+  height: 2rem;
+  width: 357px;
+}
+.componnets {
+  display: flex;
+  margin-top: 4px;
+}
